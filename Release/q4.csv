@@ -1,0 +1,2 @@
+Rho,Lambda,Alpha,SimulationTime,PacketLength,TransmissionRate,BufferExist,BufferSize,AvgNumberPackets,AvgSoujournTime,IdleProb,LossProb
+1.2,100,300,10000,12000,1e+006,false,5,83307.9,1001.26,1.66713e-006,0

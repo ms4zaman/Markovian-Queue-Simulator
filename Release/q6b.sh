@@ -1,0 +1,9 @@
+./ms4zamanLab1 0.4 2 10000 12000 1000000 true 5 0.1 q6b_5a.csv	
+./ms4zamanLab1 2 5 10000 12000 1000000 true 5 0.2 q6b_5b.csv	
+./ms4zamanLab1 5 10 10000 12000 1000000 true 5 0.4 q6b_5c.csv	
+./ms4zamanLab1 0.4 2 10000 12000 1000000 true 10 0.1 q6b_10a.csv	
+./ms4zamanLab1 2 5 10000 12000 1000000 true 10 0.2 q6b_10b.csv	
+./ms4zamanLab1 5 10 10000 12000 1000000 true 10 0.4 q6b_10c.csv
+./ms4zamanLab1 0.4 2 10000 12000 1000000 true 40 0.1 q6b_40a.csv	
+./ms4zamanLab1 2 5 10000 12000 1000000 true 40 0.2 q6b_40b.csv	
+./ms4zamanLab1 5 10 10000 12000 1000000 true 40 0.4 q6b_40c.csv
